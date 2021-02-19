@@ -397,6 +397,7 @@ figure {
 .places__card {
   position: relative;
   overflow: hidden;
+  
 }
 
 .places__card::after {
